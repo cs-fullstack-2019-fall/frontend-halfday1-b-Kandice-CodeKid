@@ -43,3 +43,6 @@ Toggle background colors on and off.
 
 ### Challenge3
 Make keyboard and mouse options. Disable and stop events from counting the points when the option is not chosen. 
+
+### Kenn's Notes:
+It looks like you were getting close, but the player1 and player2 variables are not linked to usable element variables. If you console log them you'll see they are increasing when you click, but not being used afterwards.
